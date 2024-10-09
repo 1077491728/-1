@@ -13,7 +13,7 @@ int  main()
     for (int e = 0; e < 6 - 1; e++)
     {
         for (int m = 0; m < 5 - e; m++)
-        {
+        {gitc
             if (a[m] > a[m + 1])
             {
                 t = a[m];
