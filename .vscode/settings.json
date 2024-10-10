@@ -2,5 +2,7 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.linkedEditing": true
+  "editor.linkedEditing": true,
+  "C_Cpp.errorSquiggles": "enabled",
+  "C_Cpp.default.compilerPath": "d:\\hhhh\\电气246黄晨辉.cpp"
 }
